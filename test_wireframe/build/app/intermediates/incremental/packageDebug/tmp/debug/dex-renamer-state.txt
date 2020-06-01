@@ -1,0 +1,4 @@
+#Sun May 31 21:20:23 HKT 2020
+base.0=/Users/timleung/Projects/TestUX_Supernova_Flutter/test_wireframe/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
